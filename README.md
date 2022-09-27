@@ -4,7 +4,7 @@ This nextjs project starter is suitable for team. Worried nothing about code sty
 
 > Note: this is works good on VS Code. I have not testing with another editor.
 
-### How to use it
+### How to use
 
 - clone this repo & rename the `my-app` with `your-another-stunning-app`.
 
