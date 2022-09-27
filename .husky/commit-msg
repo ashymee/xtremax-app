@@ -1,0 +1,9 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+    
+echo "🚀 checking types.."
+
+pnpm commitlint --edit $1 || (
+    echo "🥵 please resolve problems above first.."
+    false;
+)
