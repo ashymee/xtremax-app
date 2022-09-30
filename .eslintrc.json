@@ -44,5 +44,9 @@
     ],
     "simple-import-sort/imports": "warn",
     "simple-import-sort/exports": "warn"
-  }
+  },
+  "ignorePatterns": [
+    "workbox*.js",
+    "sw.js"
+  ]
 }

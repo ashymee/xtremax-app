@@ -1,0 +1,31 @@
+/* 
+this is for restyling dropdown arrow, based on:
+https://www.w3schools.com/howto/howto_custom_select.asp
+*/
+
+/* .custom-select {
+  @apply relative;
+} */
+
+/*To remove button from IE11, thank you Matt */
+/* select::-ms-expand {
+  display: none;
+} */
+
+/* .custom-select:after {
+  content: "<>";
+  font: 17px "Consolas", monospace;
+  color: #333;
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+  right: 11px;
+
+  top: 18px;
+  padding: 0 0 2px;
+  border-bottom: 1px solid #999;
+
+  position: absolute;
+  pointer-events: none;
+} */

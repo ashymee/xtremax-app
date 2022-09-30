@@ -1,3 +1,35 @@
 @tailwind base;
 @tailwind utilities;
 @tailwind components;
+@import "./font-face.css";
+@import "./leaflet.css";
+@import "./custom-select.css";
+
+.dashboard__container {
+  @apply w-[150px] h-full bg-[#323540] border-r border-[#21232B];
+}
+
+.dashboard__item {
+  @apply w-full h-[125px] flex items-center justify-center duration-300 cursor-pointer border-b border-[#2D303A];
+}
+
+.dashboard__item.active {
+  @apply bg-sky_light text-white font-robotomed;
+}
+
+.dashboard__item.disabled {
+  @apply text-[#6E8589] hover:bg-gray_darkness font-robotoreg;
+}
+
+.dashboard__item:hover .dashboard__item_svgicon,
+.dashboard__item_svgicon.active {
+  @apply fill-white;
+}
+
+.dashboard__item_svgicon.disabled {
+  @apply fill-[#86989F];
+}
+
+.dashboard__child {
+  @apply w-[80px] h-[80px] flex flex-col items-center justify-center text-center text-[16px] leading-[15px];
+}

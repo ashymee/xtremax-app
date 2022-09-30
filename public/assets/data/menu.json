@@ -1,0 +1,133 @@
+[
+    {
+        "id": "6771e606-55a5-4e06-b039-3d05ef68142b",
+        "title": "Browse",
+        "slug": "/browse",
+        "cities": [
+            {
+                "id": "941e11cb-8910-4839-96cc-ca3b08ef643f",
+                "name": "Merlion",
+                "lat": 1.286920,
+                "lng": 103.854570,
+                "address": "Merlion Park, Singapore, SG 049213",
+                "description": "The Merlion is the official mascot of Singapore. It is depicted as a mythical creature with the head of a lion and the body of a fish. Being of prominent symbolic nature to Singapore and Singaporeans in general, it is widely used to represent both the city state and its people in sports teams, advertising, branding, tourism and as a national personification.",
+                "image": "/assets/images/detail/merlion.jpg",
+                "website": "https://www.visitsingapore.com/see-do-singapore/recreation-leisure/viewpoints/merlion-park/"
+            },
+            {
+                "id": "7846c8a8-0abc-4799-863a-60ef77fae907",
+                "name": "Marina Bay Sands",
+                "lat": 1.283099,
+                "lng": 103.860295,
+                "address": "10 Bayfront Ave, Singapore 018956",
+                "description": "Marina Bay Sands (abbreviation: MBS) is an integrated resort fronting Marina Bay in Singapore. The resort is owned by the Las Vegas Sands Corporation and at its opening in 2010, it was deemed the world's most expensive standalone casino property at S$8 billion (US$6.88 billion)",
+                "image": "/assets/images/detail/marina-bay-sands.jpg",
+                "website": "https://www.marinabaysands.com",
+                "mostVisited": [
+                    {
+                        "id": "680943ec-252a-4c4e-b4f0-4d1d5548c054",
+                        "name": "Art Science Museum"
+                    },
+                    {
+                        "id": "c4c7deb0-7ee5-4411-9ce3-a736e57b0da2",
+                        "name": "Marina Bay Sands Skypark"
+                    },
+                    {
+                        "id": "25758672-de6d-473a-b6f3-643843cebfb0",
+                        "name": "Double Helix Bridge"
+                    }
+                ]
+            },
+            {
+                "id": "d3bd66be-1399-46ac-8318-73914fbce1a9",
+                "name": "Garden by the Bay",
+                "lat": 1.281790,
+                "lng": 103.863954,
+                "address": "18 Marina Gardens Drive, Singapore, SG 018953",
+                "description": "The Gardens by the Bay is a nature park spanning 101 hectares (250 acres) in the Central Region of Singapore, adjacent to the Marina Reservoir. The park consists of three waterfront gardens: Bay South Garden (in Marina South), Bay East Garden (in Marina East) and Bay Central Garden (in Downtown Core and Kallang)",
+                "image": "/assets/images/detail/garden-by-the-bay.jpg",
+                "website": "http://www.gardensbythebay.com.sg/"
+            },
+            {
+                "id": "27188472-f0c1-4c13-a894-53d154f48800",
+                "name": "China Town",
+                "lat": 1.284193,
+                "lng": 103.843362,
+                "address": "288 South Bridge Road, Singapore, SG 058840",
+                "description": "Explore a Chinatown like no other, and be enchanted by historic temples, hip bars and the heritage of Singapore.",
+                "image": "/assets/images/detail/china-town.jpg",
+                "website": "http://www.btrts.org.sg/"
+            },
+            {
+                "id": "142143a3-d860-45fd-8f5b-1790e2bc70bb",
+                "name": "Asian Civilisations Museum",
+                "lat": 1.287466,
+                "lng": 103.851424,
+                "address": "1 Empress Place, Singapore, SG 179555",
+                "description": "Asia Civilisations Museum features an incredible collection of pan-Asian art and culture. It houses a series of thematic galleries that exhibit the treasures of Southeast Asia, West Asia, China, and the Asian subcontinent. It also outlines the details of the roots of Singapore culture.",
+                "image": "/assets/images/detail/asian-civilisations-museum.jpg",
+                "website": "https://www.nhb.gov.sg/acm"
+            },
+            {
+                "id": "d4bf6cbe-9700-488b-999c-c1f814057578",
+                "name": "Clarke Quay",
+                "lat": 1.290555,
+                "lng": 103.846188,
+                "address": "3 River Valley Rd, Singapore 179024",
+                "description": "Clarke Quay was named after Sir Andrew Clarke, Singapore's second Governor and Governor of the Straits Settlements from 1873 to 1875, who played a key role in positioning Singapore as the main port for the Malay states of Perak, Selangor and Sungei Ujong.",
+                "image": "/assets/images/detail/clarke-quay.jpg",
+                "website": "http://www.clarkequay.com.sg/"
+            },
+            {
+                "id": "e58a8c8d-03ef-4b47-9507-b870d92e6be2",
+                "name": "Fort Canning Park",
+                "lat": 1.295526,
+                "lng": 103.845331,
+                "address": "River Valley Rd, Singapore 179037",
+                "description": "Fort Canning Hill, formerly Government Hill, Singapore Hill and Bukit Larangan (Forbidden Hill in Malay), is a small hill, about 48 metres (157 ft) high, in the southeast portion of the island city-state of Singapore, within the Central Area that forms Singapore's central business district. It is named after Viscount Charles John Canning, the first Viceroy of India.",
+                "image": "/assets/images/detail/fort-canning-park.jpg",
+                "website": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/fort-canning-park"
+            },
+            {
+                "id": "c15d0417-244e-426c-9f12-ef046c751f25",
+                "name": "Singapore Flyer",
+                "lat": 1.289332,
+                "lng": 103.863152,
+                "address": "30 Raffles Avenue Singapore Flyer, Singapore, SG 039803",
+                "description": "The Singapore Flyer[a] is an observation wheel at the Downtown Core district of Singapore. Officially opened on 15 April 2008, it has 28 air-conditioned capsules, each able to accommodate 28 passengers, and incorporates a three-story terminal building.",
+                "image": "/assets/images/detail/singapore-flyer.jpg",
+                "website": "http://www.singaporeflyer.com/"
+            },
+            {
+                "id": "361c5c82-595d-4eec-90bb-06964b76cb74",
+                "name": "Orchard Road",
+                "lat": 1.302279,
+                "lng": 103.837399,
+                "address": "Mandarin Gallery, 325–333 Orchard Rd, Singapore",
+                "description": "Orchard Road, often known colloquially as Orchard, is a major 2.5 km (1.6 mi)–long road in the Central Area of Singapore. A famous tourist attraction, it is an upscale shopping area of Singapore, with numerous internationally renowned department stores, restaurants and coffeehouses located in its vicinity",
+                "image": "/assets/images/detail/orchard-road.jpg",
+                "website": "http://www.orchardroad.org/"
+            }
+        ]
+    },
+    {
+        "id": "ebfb3a7b-3cb2-4dce-ac18-f1b5a26d91bd",
+        "title": "Suggest Attraction",
+        "slug": "/suggest-attraction"
+    },
+    {
+        "id": "a8603e00-f399-492d-acc8-557cd8c117d4",
+        "title": "Videos",
+        "slug": "/videos"
+    },
+    {
+        "id": "111918b7-4042-42aa-82c2-82cfe3d25b18",
+        "title": "Blog",
+        "slug": "/blog"
+    },
+    {
+        "id": "812ecfb4-45c5-42fc-81fa-1808e19f944c",
+        "title": "About",
+        "slug": "/about"
+    }
+]

@@ -97,13 +97,6 @@ class MyDocument extends Document {
           />
           <link rel="icon" href={constants.assets.faviconPath} />
           <link rel="manifest" href={constants.assets.manifest} />
-
-          <link rel="preconnect" href="https://fonts.googleapis.com" />
-          <link rel="preconnect" href="https://fonts.gstatic.com" />
-          <link
-            href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Roboto:wght@100&display=swap"
-            rel="stylesheet"
-          />
         </Head>
 
         <body className="scrollbar-hide">

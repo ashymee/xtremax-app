@@ -1,7 +1,7 @@
 const publicInfo = {
-  appName: "NEXT APP",
+  appName: "Xtremax App",
   // prettier-ignore
-  description: '',
+  description: 'Xtremax assignment test',
   version: "1.0.0",
   author: "Aswin Sahlan Himawan",
   website: "",
@@ -46,11 +46,45 @@ const static_messages = {
   info: {},
 };
 
+const colors = {
+  white_smoke: "#EFF2F5",
+  gray_calm: "#80929A",
+  gray_light: "#86989F",
+  gray_light_med: "#697C7F",
+  gray_dark: "#292C36",
+  gray_dark_deep: "#252831",
+  gray_darkness: "#1D1F26",
+  green_leaves: "#91BF49",
+};
+
+const expanded_initial = {
+  id: "941e11cb-8910-4839-96cc-ca3b08ef643f",
+  lat: 1.28692,
+  lng: 103.85457,
+  name: "Merlion",
+  address: "1 Fullerton Road One Fullerton, Merlion Park, Singapore, SG 049213",
+  description:
+    "The Merlion is the official mascot of Singapore. It is depicted as a mythical creature with the head of a lion and the body of a fish. Being of prominent symbolic nature to Singapore and Singaporeans in general, it is widely used to represent both the city state and its people in sports teams, advertising, branding, tourism and as a national personification.",
+  image: "/assets/images/detail/merlion.jpg",
+};
+
+const mapOptions = {
+  theme: {
+    light: "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+    dark: "https://api.maptiler.com/maps/ch-swisstopo-lbm-dark/256/{z}/{x}/{y}.png?key=9o0JvckAGs897hIhLK7z",
+  },
+  contribution:
+    '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+};
+
 const constants = {
   publicInfo,
   assets,
   storageKey,
   static_messages,
+  colors,
+  mapOptions,
+  expanded_initial,
 };
 
 export default constants;
