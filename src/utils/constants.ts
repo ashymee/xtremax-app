@@ -6,6 +6,10 @@ const publicInfo = {
   author: "Aswin Sahlan Himawan",
   website: "",
   email: "support@devstreetlab.my.id",
+  baseURL:
+    process.env.NODE_ENV === "development"
+      ? "http://localhost:3000"
+      : "https://xtremax-app.vercel.app",
 };
 
 const assets = {
