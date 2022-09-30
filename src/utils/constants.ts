@@ -62,14 +62,15 @@ const colors = {
 };
 
 const expanded_initial = {
-  id: "941e11cb-8910-4839-96cc-ca3b08ef643f",
-  lat: 1.28692,
-  lng: 103.85457,
-  name: "Merlion",
-  address: "1 Fullerton Road One Fullerton, Merlion Park, Singapore, SG 049213",
+  id: "d4bf6cbe-9700-488b-999c-c1f814057578",
+  name: "Clarke Quay",
+  lat: 1.290555,
+  lng: 103.846188,
+  address: "3 River Valley Rd, Singapore 179024",
   description:
-    "The Merlion is the official mascot of Singapore. It is depicted as a mythical creature with the head of a lion and the body of a fish. Being of prominent symbolic nature to Singapore and Singaporeans in general, it is widely used to represent both the city state and its people in sports teams, advertising, branding, tourism and as a national personification.",
-  image: "/assets/images/detail/merlion.jpg",
+    "Clarke Quay was named after Sir Andrew Clarke, Singapore's second Governor and Governor of the Straits Settlements from 1873 to 1875, who played a key role in positioning Singapore as the main port for the Malay states of Perak, Selangor and Sungei Ujong.",
+  image: "/assets/images/detail/clarke-quay.jpg",
+  website: "http://www.clarkequay.com.sg/",
 };
 
 const mapOptions = {
