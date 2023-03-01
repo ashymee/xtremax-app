@@ -40,3 +40,5 @@ yarn-error.log*
 pnpm-lock.yaml
 sw.js
 workbox*.js
+
+yarn.lock
