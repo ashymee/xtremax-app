@@ -3,7 +3,7 @@
     
 echo "🚀 checking types.."
 
-pnpm commitlint --edit $1 || (
+yarn commitlint --edit $1 || (
     echo "🥵 please resolve problems above first.."
     false;
 )
