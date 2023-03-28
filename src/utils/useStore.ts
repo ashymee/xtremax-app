@@ -5,7 +5,7 @@ import type {
   IExpanded,
   IMenu,
 } from "index";
-import create from "zustand";
+import { create } from "zustand";
 
 import constants from "./constants";
 
